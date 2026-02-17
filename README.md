@@ -1,3 +1,0 @@
-  # madebyand
-
-  Things, madebyand.
